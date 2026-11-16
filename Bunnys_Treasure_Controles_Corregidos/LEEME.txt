@@ -1,0 +1,9 @@
+BUNNY'S TREASURE — ARCHIVOS UNIFICADOS
+
+Sube index.html y las carpetas css, js y assets directamente a la RAIZ de tu repositorio GitHub.
+No subas solo el ZIP. En Settings > Pages configura main y /(root).
+El juego necesita Internet para Three.js y un servidor web (GitHub Pages o Live Server).
+Los tres niveles utilizan index.html, css/style.css y js/game.js.
+Los GLB e imagenes de assets son necesarios; no los borres.
+El JavaScript conserva la logica original de los tres niveles, con ejecucion aislada para cada nivel.
+No se ha realizado una prueba completa de juego en navegador; comprueba colisiones, saltos y progresion.
